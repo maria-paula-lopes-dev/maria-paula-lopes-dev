@@ -20,6 +20,15 @@ Tenho interesse em evoluir para **full stack** por meio de projetos práticos, v
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=maria-paula-lopes-dev&show_icons=true&theme=dark&title_color=b500ff&text_color=c9d1d9&&icon_color=b500ff&bg_color=0D0D0D&border_color=b500ff" alt="Maria Paula github stats"/>
+
+</div>
+
+<!--
 <div align="center">  
   <img width="49%" height="195px" 
        src="https://github-readme-stats.vercel.app/api?username=maria-paula-lopes-dev&show_icons=true&count_private=true&hide_border=true&title_color=b500ff&icon_color=b500ff&text_color=c9d1d9&bg_color=0d1117" 
@@ -27,6 +36,7 @@ Tenho interesse em evoluir para **full stack** por meio de projetos práticos, v
   <img width="41%" height="195px" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapaulalopes&layout=compact&hide_border=true&title_color=b500ff&text_color=00bfbf&bg_color=0d1117" />
 </div>
+-->
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
