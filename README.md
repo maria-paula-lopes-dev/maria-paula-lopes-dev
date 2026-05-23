@@ -4,9 +4,11 @@
 
 ## Sobre Mim
 
-Sou **Técnica em Informática** pela **CEDAF/UFV** *(Campus Florestal).*
-Atualmente **foco em desenvolvimento front-end,** criando interfaces com **HTML** e **CSS** e aprimorando boas práticas de estrutura, semântica e responsividade.  
-Tenho interesse em evoluir para **full stack** por meio de projetos práticos, versionamento com Git e aprendizado contínuo.
+🎓 Técnica em Informática pela CEDAF/UFV *(Campus Florestal).*
+
+Atualmente focada em desenvolvimento front-end, criando interfaces web com **HTML, CSS e JavaScript**, com atenção à responsividade, semântica e organização de código.
+
+Busco evoluir continuamente por meio de projetos práticos, versionamento com Git/GitHub e aprofundamento em tecnologias voltadas ao desenvolvimento full stack.
 
 ---
 
