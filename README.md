@@ -4,11 +4,13 @@
 
 ## Sobre Mim
 
-🎓 Técnica em Informática pela CEDAF/UFV *(Campus Florestal).*
+<img align="right" width="420" src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2070&auto=format&fit=crop" width="100%" />
 
-Atualmente focada em desenvolvimento front-end, criando interfaces web com **HTML, CSS e JavaScript**, com atenção à responsividade, semântica e organização de código.
+🎓 Oi! Me chamo Maria Paula e minha formação acadêmica é como Técnica em Informática pela CEDAF/UFV *(Campus Florestal)*.
 
-Busco evoluir continuamente por meio de projetos práticos, versionamento com Git/GitHub e aprofundamento em tecnologias voltadas ao desenvolvimento full stack.
+Atualmente estou focada em desenvolvimento front-end, criando interfaces web com **HTML, CSS e JavaScript**, com atenção à responsividade, semântica, escalabilidade, manutenção e organização de código.
+
+Busco evoluir continuamente por meio de projetos práticos e aprofundamento em tecnologias voltadas ao desenvolvimento front-end.
 
 ---
 
@@ -25,8 +27,10 @@ Busco evoluir continuamente por meio de projetos práticos, versionamento com Gi
 <div align="center">
   <img height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=maria-paula-lopes-dev&show_icons=true&theme=dark&title_color=b500ff&text_color=c9d1d9&&icon_color=b500ff&bg_color=0D0D0D&border_color=b500ff" alt="Maria Paula github stats"/>
-
+  
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-paula-lopes-dev&layout=compact&theme=tokyonight&border_color=b500ff" />
 </div>
+
 
 <!--
 <div align="center">  
@@ -42,6 +46,5 @@ Busco evoluir continuamente por meio de projetos práticos, versionamento com Gi
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div> -->
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b500ff&height=120&section=footer"/>
