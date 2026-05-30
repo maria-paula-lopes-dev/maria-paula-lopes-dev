@@ -2,19 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b500ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+Name+is:;Maria+Paula!;Técnica+em+Informática;Welcome!+:%29)](https://git.io/typing-svg) 
 
-## Sobre Mim
+## ✦ Sobre Mim
 
-<img align="right" width="420" src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2070&auto=format&fit=crop" width="100%" />
+<!--<img align="right" width="420" src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2070&auto=format&fit=crop" width="100%" />-->
+<img align="right" width="420" width="100%" alt="Image" src="https://github.com/user-attachments/assets/c2534654-0907-4a91-9e8b-4ed87483e4c2" />
 
-🎓 Oi! Me chamo Maria Paula e minha formação acadêmica é como Técnica em Informática pela CEDAF/UFV *(Campus Florestal)*.
+💜 Oi! Eu sou a Maria Paula.
 
-Atualmente estou focada em desenvolvimento front-end, criando interfaces web com **HTML, CSS e JavaScript**, com atenção à responsividade, semântica, escalabilidade, manutenção e organização de código.
+✧ Técnica em Informática pela **CEDAF/UFV** *(Campus Florestal)* e apaixonada por tecnologia & desenvolvimento web.
 
-Busco evoluir continuamente por meio de projetos práticos e aprofundamento em tecnologias voltadas ao desenvolvimento front-end.
+✧ Atualmente estou aprofundando meus conhecimentos em desenvolvimento **front-end,** com foco em **HTML, CSS e JavaScript,** criando projetos que reforçam conceitos de responsividade, semântica, organização e manutenção de código.
+
+✧ Tenho interesse em desenvolvimento web e gosto de entender **não apenas como implementar soluções, mas também os conceitos e boas práticas** por trás delas.
+
+✧ Este perfil reúne projetos, estudos e experimentos que fazem parte da minha evolução na área de tecnologia.
 
 ---
 
-### Tecnologias em Aprofundamento
+### ✦ Tecnologias em Aprofundamento
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -22,7 +27,7 @@ Busco evoluir continuamente por meio de projetos práticos e aprofundamento em t
 
 ---
 
-## 📊 Estatísticas do GitHub
+## ✦ Estatísticas do GitHub
 
 <div align="center">
   <img height="180em"
