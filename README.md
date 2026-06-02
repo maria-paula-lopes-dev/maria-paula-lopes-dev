@@ -37,8 +37,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=maria-paula-
 <img height="180em"
 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-paula-lopes-dev&layout=compact&theme=dark&title_color=b500ff&text_color=c9d1d9&icon_color=b500ff&bg_color=0D0D0D&border_color=b500ff"/>
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=maria-paula-lopes-dev&theme=dark&background=0D1117&border=b500ff&stroke=b500ff&ring=b500ff&fire=b500ff&currStreakLabel=b500ff"/>
+<!--<img height="180em"
+src="https://streak-stats.demolab.com?user=maria-paula-lopes-dev&theme=dark&background=0D1117&border=b500ff&stroke=b500ff&ring=b500ff&fire=b500ff&currStreakLabel=b500ff"/>-->
 
 </div>
 
