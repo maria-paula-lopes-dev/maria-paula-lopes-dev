@@ -31,8 +31,6 @@
 
 ## ✦ Contato
 
-### ✦ Contato
-
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=b500ff)](https://github.com/maria-paula-lopes-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=b500ff)](https://www.linkedin.com/in/maria-paula-lopes/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=b500ff)](mailto:mariapaulalopessilva5@gmail.com)
