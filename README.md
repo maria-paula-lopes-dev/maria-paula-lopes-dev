@@ -32,7 +32,7 @@
 ## ✦ Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=b500ff)](https://github.com/maria-paula-lopes-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=b500ff)](https://www.linkedin.com/in/maria-paula-lopes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2I1MDBmZiIgZD0iTTE5IDBIM0MyLjMzIDAgMiAuNjcgMiAxLjMzdjIxLjM0QzIgMjMuMzMgMi4zMyAyNCAzIDI0aDE2YzIuNjcgMCAzLS42NyAzLTEuMzNIMS4zM0MzIDAgMi42NyAwIDE5IDB6TTcuNDkgMjIuNTVINS40NnYtOS41N2gyLjAzdjkuNTd6TTYuNDcgMTEuNjdjLS42OCAwLTEuMjQtLjU2LTEuMjQtMS4yNHMuNTYtMS4yNCAxLjI0LTEuMjQgMS4yNC41NiAxLjI0IDEuMjQtLjU2IDEuMjQtMS4yNCAxLjI0em0xNi4wOCAxMC44OGgtMi4wM3YtNS40M2MwLTIuMTEtLjg1LTMuMjEtMi4zMy0zLjIxLTEuNjUgMC0yLjM5IDEuMTItMi4zOSAyLjczdjUuOTFoLTIuMDN2LTkuNTdoMi4wM3YxLjM0YzIuNTQtMi45MiA2Ljc1LTEuNzQgNi43NSA0LjA1djYuMTh6Ii8+PC9zdmc+&logoColor=b500ff)](https://www.linkedin.com/in/maria-paula-lopes/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=b500ff)](mailto:mariapaulalopessilva5@gmail.com)
 
 ---
